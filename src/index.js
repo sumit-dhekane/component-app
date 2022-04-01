@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import Mearn from './Mearn'
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Mearn />
   </React.StrictMode>,
   document.getElementById('root')
 );
